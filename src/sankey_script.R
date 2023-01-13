@@ -1,8 +1,7 @@
 library(readxl)
 library(tidyverse)
 library(networkD3)
-library(plotly)
-library(webshot)
+
 
 dat_filename <- "./data/toy_data.xlsx"
 font_size <- 12
